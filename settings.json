@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "lalu.qzz.io",
-    "port": 53593,
+    "port": 12345,
     "version": "",
     "try-creative": false
   },
